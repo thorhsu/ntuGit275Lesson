@@ -15,5 +15,5 @@ thorhsu
 My Favorite 3 Programming Languages
 --------------------------------
   1. Java
-  2. JavaScript
-  3. Ruby on Rails
+  1. JavaScript
+  1. Ruby on Rails
