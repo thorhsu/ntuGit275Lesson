@@ -11,7 +11,7 @@ Date
 Github Username
 ---------------
 thorhsu
-
+thor.hsu
 My Favorite 3 Programming Languages
 --------------------------------
   1. Java
